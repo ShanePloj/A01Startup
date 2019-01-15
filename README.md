@@ -4,3 +4,7 @@
 2. click the one click installer
 3. Follow through with the download
 4. open the game
+
+
+# License Choice
+
