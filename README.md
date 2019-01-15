@@ -7,5 +7,5 @@
 
 
 # License Choice
-
+Guarantees end users the freedom to run, study, share and modify the software.
 
